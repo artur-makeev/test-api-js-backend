@@ -10,4 +10,4 @@
 * Документация к API доступна по адресу http://localhost:2114/api/docs/.
 * Для получения jwt token необходимо отправить post запрос по адресу:
     http://localhost:2114/api/user/login с request body
-    { "userlogin": "string", "password": "string"}.
+    { "userlogin": "John", "password": "Wick"}.
